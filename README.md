@@ -13,5 +13,5 @@ To Analyze how travelers expressed their feelings on Twitter using pyspark MLlib
     - By copying it from the terminal screen and pasting it to browser.
 > It provides an interactive Jupyter Notebook environment, open the Sentimental_Analysis.ipyb and execute it cell by cell. 
 --- 
-> You can just open Sentimental_Analysis.ipyb in the Jupyter server and then see the output, but you will to be able to execute it cell by cell.
+- You can just open Sentimental_Analysis.ipynb in the Jupyter server and then see the output, but you will to be able to execute it cell by cell.
 
